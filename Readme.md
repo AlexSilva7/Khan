@@ -1,4 +1,6 @@
 
+Animações feitas no ambiente de Desenvolvimento da Khan Academy
+
 Jogo da Memoria
 https://pt.khanacademy.org/computer-programming/jogo-da-memria-com-ia/4915544653250560
 
